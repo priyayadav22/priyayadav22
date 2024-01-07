@@ -12,7 +12,7 @@
 
 
 
-# I'm a Student, Developer, and Freelancer!!!
+# I'm a Student, Developer, and Tester
 
 - 🌱 I’m currently learning everything 📝
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
@@ -52,7 +52,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/priyayadav22">
-<img align="center" alt="Saurabh's Github stats"
+<img align="center" alt="Priya's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=priyayadav22&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
    </p>
