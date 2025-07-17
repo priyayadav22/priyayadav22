@@ -93,12 +93,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyayadav22&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
 </p>
 
----
-
-<h2 align="center">Contribution Graph 📈</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyayadav22&theme=github"/>
-</p>
 
 ---
 
